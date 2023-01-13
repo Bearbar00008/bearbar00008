@@ -1,12 +1,12 @@
 <table><tr><td valign="top" width="75%">
 
-## Hi there! 🖐 My name is Alonso
+## Hi there! I am Dario 
 
-💻 I am a backend developer who is absolutely in love with code and the magic of creating efficient, reliable systems. I am always on the lookout for new technologies and approaches to improve my skills, and I am proficient in a variety of programming languages like Python or Javascript.
+I am a React developer with experience in building high-performance, scalable, and user-friendly web applications. My expertise in React, along with my knowledge of modern front-end technologies, allows me to deliver exceptional results for my clients. I am constantly learning new technologies to improve my skills, and always looking for new opportunities to work on interesting projects.
 
-🤓 In my work, I am not only focused on delivering functional code, but also on creating maintainable and scalable solutions that will stand the test of time. I am so excited to learn and grow as a developer, and I would be thrilled to collaborate with other like-minded individuals on challenging and exciting projects.
+I have a passion for front-end development and a deep love for the work that I do. I take great pride in building high-performance, user-friendly and visually appealing web applications. I believe that the front-end is the face of a website or application and it's my goal to make sure that it's not only functional but also visually stunning. I am constantly learning new technologies and techniques to improve my skills and stay at the forefront of the industry
 
-🤝 So if you're looking for a passionate and proficient coder who is always ready to take on new challenges and learn from others, please don't hesitate to reach out! I would love to chat and see how we can work together to make some amazing things happen. 🤝
+🤝 Don't hesitate to reach out to me for your front-end development needs. I am confident in delivering exceptional results and excited to work on new projects. Let's bring your vision to life together. 🤝
  
 </td><td valign="top" width="25%">
 
